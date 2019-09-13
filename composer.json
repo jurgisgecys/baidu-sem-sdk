@@ -1,5 +1,5 @@
 {
-    "name": "baidu/sem-sdk",
+    "name": "baidu-php/sem-sdk",
     "description": "Baidu SEM php sdk",
     "type": "library",
     "require": {}
