@@ -2,5 +2,10 @@
     "name": "baidu-php/sem-sdk",
     "description": "Baidu SEM php sdk",
     "type": "library",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Baidu\\": "src/"
+        }
+    }
 }
