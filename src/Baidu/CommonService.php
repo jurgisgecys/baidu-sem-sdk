@@ -1,6 +1,5 @@
 <?php
 
-namespace Baidu;
 //define ( 'URL', 'http://tjyx-testing-ecombh54.vm.baidu.com:8443' );
 
 

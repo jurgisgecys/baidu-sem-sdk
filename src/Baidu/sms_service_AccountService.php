@@ -1,6 +1,5 @@
 <?php
-
-namespace Baidu;
+require_once 'CommonService.php';
 
 /*PLEASE DO NOT EDIT THIS CODE*/
 /*This code was generated using the UMPLE @UMPLE_VERSION@ modeling language!*/

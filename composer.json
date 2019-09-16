@@ -4,8 +4,8 @@
     "type": "library",
     "require": {},
     "autoload": {
-        "psr-4": {
-            "Baidu\\": "src/"
-        }
+        "classmap": [
+            "src/Baidu"
+        ]
     }
 }
